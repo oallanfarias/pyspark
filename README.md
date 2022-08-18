@@ -1,8 +1,9 @@
 # Estudando PYSPARK
-Códigos e comentários realizados durante a primeira aula.
- - Instalação do PySpark 
- - Importação do PySpark 
- - Configuração da SparkSession 
- - Manipulando DataFrames 
- - Importação de dados CSV 
- - Aplicação de filtros
+Códigos e comentários realizados durante a aula.
+
+- SparkContext
+- Functions
+- DataFrame
+- show(qtd)
+- printSchema()
+- select, filter, where, orderBy, groupBy, count, sum, substring, concat, concat_ws, withColumn, withColumnRenamed, When-Otherwise, drop, join(inner, left, right, full), distinct, dropDuplicates
